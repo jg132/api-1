@@ -1,1 +1,1 @@
-# api-1
+# use heroku-php-apache2 public/ for Run command
